@@ -47,3 +47,9 @@ After completing this course you will be able to:
 - Lesson 3 - Thinking Critically about Your Program
 - Review
 - Quiz: Learning to Program in JavaScript
+##### Design Principles for Programming
+- Lesson 1 - Everything Is a Number
+- Lesson 2 - Solving the Green Screen Problem
+- Lesson 3 - Solving Programming Problems
+- Review
+- Quiz: Design Principles for Programming
