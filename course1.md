@@ -39,3 +39,11 @@ After completing this course you will be able to:
 - Lesson 4 - Building a Web Page
 - Making a Web Page in HTML and CSS
 - Assignment: Peer Review
+
+#### Week 3
+##### Learning to Program in JavaScript
+- Lesson 1 - JavaScript Basics
+- Lesson 2 - Conditional Execution
+- Lesson 3 - Thinking Critically about Your Program
+- Review
+- Quiz: Learning to Program in JavaScript
