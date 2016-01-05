@@ -1,5 +1,5 @@
-# Java-Programming-An-Introduction-to-Software-Specialization
-## HTML, CSS and JavaScript
+# Java Programming: An Introduction to Software Specialization
+## Programming and the Web for Beginners
 ### About the Course:
 In this course, you will use computers to creatively design web pages using HTML and CSS.  You will then use Javascript to develop programs and algorithms--ways to get the computer to solve problems.  As you progress, you will master the programming process that will be used through the remainder of the courses in this Specialization.
 
@@ -12,12 +12,22 @@ After completing this course you will be able to:
 6. Recognize debugging as an application of the scientific method.
 
 #### Week 1
-##### Welcome to the Course | What Is a Web Page?
+##### Welcome to the Course
 - Lesson 1 - Course Intro
 - Try It!
+##### What Is a Web Page?
 - Lesson 1 - Internet, Web, and Communication
 - Lesson 2 - Power of Collaboration
 - Lesson 3 - User Experience
 - Review
 - Quiz: Inside Look At The Course
 - Quiz: What Is a Web Page?
+
+#### Week 2
+##### Building a Web Page with HTML
+Lesson 1 - Tools for Creation
+Lesson 2 - Simple HTML
+Lesson 3 - HTML Lists and Tables
+Lesson 4 - Images and Storage
+Lesson 5 - Digital Citizenship
+Review
