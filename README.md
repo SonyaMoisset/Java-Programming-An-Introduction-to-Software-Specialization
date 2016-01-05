@@ -1,4 +1,4 @@
-# Java-Programming-An-Introduction-to-Software-Specialization
+# Java Programming: An Introduction to Software Specialization
 ## Learn the basics of programming and software development with Java
 ### Created by The Duke University
 
@@ -12,4 +12,6 @@ This Specialization covers the fundamentals of software development, focusing on
 ## Updates
 ### 05/01/2015
 - Enrolled in the program
-- Finished Week 1 | What Is a Web Page? in Course 1 | Programming and the Web for Beginners
+- Finished Week 1a | Welcome to the Course in Course 1 | Programming and the Web for Beginners
+- Finished Week 1b | What Is a Web Page? in Course 1 | Programming and the Web for Beginners
+- Finished Week 2a | Building a Web Page with HTML in Course 1 | Programming and the Web for Beginners
