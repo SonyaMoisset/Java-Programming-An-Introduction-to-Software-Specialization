@@ -16,6 +16,7 @@ After completing this course you will be able to:
 - Lesson 1 - Course Intro
 - Try It!
 - Quiz: Inside Look At The Course
+
 ##### What Is a Web Page?
 - Lesson 1 - Internet, Web, and Communication
 - Lesson 2 - Power of Collaboration
@@ -32,6 +33,7 @@ After completing this course you will be able to:
 - Lesson 5 - Digital Citizenship
 - Review
 - Quiz: Building a Web Page with HTML
+
 ##### CSS for Styling a Web Page
 - Lesson 1 - Why CSS?
 - Lesson 2 - CSS Basics
@@ -47,6 +49,7 @@ After completing this course you will be able to:
 - Lesson 3 - Thinking Critically about Your Program
 - Review
 - Quiz: Learning to Program in JavaScript
+
 ##### Design Principles for Programming
 - Lesson 1 - Everything Is a Number
 - Lesson 2 - Solving the Green Screen Problem
