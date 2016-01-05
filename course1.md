@@ -15,19 +15,27 @@ After completing this course you will be able to:
 ##### Welcome to the Course
 - Lesson 1 - Course Intro
 - Try It!
+- Quiz: Inside Look At The Course
 ##### What Is a Web Page?
 - Lesson 1 - Internet, Web, and Communication
 - Lesson 2 - Power of Collaboration
 - Lesson 3 - User Experience
 - Review
-- Quiz: Inside Look At The Course
 - Quiz: What Is a Web Page?
 
 #### Week 2
 ##### Building a Web Page with HTML
-Lesson 1 - Tools for Creation
-Lesson 2 - Simple HTML
-Lesson 3 - HTML Lists and Tables
-Lesson 4 - Images and Storage
-Lesson 5 - Digital Citizenship
-Review
+- Lesson 1 - Tools for Creation
+- Lesson 2 - Simple HTML
+- Lesson 3 - HTML Lists and Tables
+- Lesson 4 - Images and Storage
+- Lesson 5 - Digital Citizenship
+- Review
+- Quiz: Building a Web Page with HTML
+##### CSS for Styling a Web Page
+- Lesson 1 - Why CSS?
+- Lesson 2 - CSS Basics
+- Lesson 3 - Colors and Names in CSS
+- Lesson 4 - Building a Web Page
+- Making a Web Page in HTML and CSS
+- Assignment: Peer Review
