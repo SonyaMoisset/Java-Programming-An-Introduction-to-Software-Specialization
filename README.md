@@ -16,3 +16,4 @@ This Specialization covers the fundamentals of software development, focusing on
 - Finished Week 1b | What Is a Web Page? in Course 1 | Programming and the Web for Beginners
 - Finished Week 2a | Building a Web Page with HTML in Course 1 | Programming and the Web for Beginners
 - Finished Week 2b | CSS for Styling a Web Page in Course 1 | Programming and the Web for Beginners
+- Finished Week 3a | Learning to Program in JavaScript in Course 1 | Programming and the Web for Beginners
