@@ -22,7 +22,7 @@ After completing this course you will be able to:
 - Lesson 2 - Power of Collaboration
 - Lesson 3 - User Experience
 - Review
-- Quiz: What Is a Web Page?
+- Quiz: What Is a Web Page? | 80%
 
 #### Week 2
 ##### Building a Web Page with HTML
@@ -32,7 +32,7 @@ After completing this course you will be able to:
 - Lesson 4 - Images and Storage
 - Lesson 5 - Digital Citizenship
 - Review
-- Quiz: Building a Web Page with HTML
+- Quiz: Building a Web Page with HTML | 80%
 
 ##### CSS for Styling a Web Page
 - Lesson 1 - Why CSS?
@@ -48,14 +48,14 @@ After completing this course you will be able to:
 - Lesson 2 - Conditional Execution
 - Lesson 3 - Thinking Critically about Your Program
 - Review
-- Quiz: Learning to Program in JavaScript
+- Quiz: Learning to Program in JavaScript | 91%
 
 ##### Design Principles for Programming
 - Lesson 1 - Everything Is a Number
 - Lesson 2 - Solving the Green Screen Problem
 - Lesson 3 - Solving Programming Problems
 - Review
-- Quiz: Design Principles for Programming
+- Quiz: Design Principles for Programming | 90%
 
 #### Week 4
 ##### Finding Information in Data
@@ -63,7 +63,7 @@ After completing this course you will be able to:
 - Lesson 2 - Hiding Data in Images with Steganography
 - Lesson 3 - Applying the Seven-Step Process
 - Review
-- Quiz: Steganography Extraction and Duplication
+- Quiz: Steganography Extraction and Duplication | 90%
 
 ##### Mini-Project: Create Your E-Portfolio
 - E-Portfolio Project Guide
