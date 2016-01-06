@@ -64,3 +64,8 @@ After completing this course you will be able to:
 - Lesson 3 - Applying the Seven-Step Process
 - Review
 - Quiz: Steganography Extraction and Duplication
+
+##### Mini-Project: Create Your E-Portfolio
+- E-Portfolio Project Guide
+- Final Project
+- Assignment: Creating Your E-Portfolio
