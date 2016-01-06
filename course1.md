@@ -56,3 +56,11 @@ After completing this course you will be able to:
 - Lesson 3 - Solving Programming Problems
 - Review
 - Quiz: Design Principles for Programming
+
+#### Week 4
+##### Finding Information in Data
+- Lesson 1 - Functions
+- Lesson 2 - Hiding Data in Images with Steganography
+- Lesson 3 - Applying the Seven-Step Process
+- Review
+- Quiz: Steganography Extraction and Duplication
