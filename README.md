@@ -21,3 +21,6 @@ This Specialization covers the fundamentals of software development, focusing on
 
 ### 06/01/2015
 - Finished Week 4 | Finding Information in Data in Course 1 | Programming and the Web for Beginners
+
+### 11/01/2015
+- Finished Week 1a | Welcome to the Course in Course 2 | Java Programming: Solving Problems with Software
